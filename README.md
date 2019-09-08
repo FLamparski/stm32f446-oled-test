@@ -2,6 +2,8 @@
 
 More stuff and proper writeup coming soon.
 
+![Rustacean on the OLED](https://pbs.twimg.com/media/ED9u7lYX4AA3Mnl?format=jpg&name=4096x4096)
+
 ## Converting images to SSD1306 bitmaps
 
 Use ImageMagick's `convert` tool:
@@ -57,3 +59,7 @@ the MCU, and resets into a debug breakpoint.
     ]
 }
 ```
+
+## Acknowledgements
+
+* Ferris the crab logo is from https://rustacean.net/.
